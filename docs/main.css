@@ -1,48 +1,45 @@
 .navbar-default .navbar-nav>li>a {
     color: white;
-}
- footer 
- {
- 
-  height:30px;
- }
- 
+}            /* header ke icons white------------------------------------------------*/
+
 #wrapper {
   margin-top:30px;
-         }
+         }          /* body ka margin , header sae-----------------------*/
 
 #main,
 #menu,
 #sidebar {
-  height:900px;
-}
+  height:700px;  
+}                /*---------3 col ki total height-----------------*/
 
 #main,
 #menu,
 #sidebar {
   background-color: #e9ebee;
-}
+}                 /*-------------------background color of 3 col ka---------------------*/
 
 #header {
     background-color: #4267b2;
     
-}
+}                     /*--------------------header ka background color----------------------------*/
 
 
 
 .pull-right {
     float: right!important;
-}
-#s{
+}   /*---------------------footer ka right side krne k liye-------------------------------------*/
+
+
+/*#s{
 	margin:-8px;
-}
-
-
+}*/
 
 .list-heading {
     padding: 20px 15px 0 15px;
 	padding-top:-5px;
-}
+}  /*----------col 1 main uss m headings ki padding------------------*/
+
+
 .panel-body .glyphicon {
     margin-left: 10px;
     margin-right: 4px;
@@ -151,4 +148,7 @@ font-size:14px;
 }
 .list-group .list-group-item.active .footer{
 	color:grey;
+}   /*---------sidebar ,usme text unska footer ka color--------------*/
+.carousel-inner .item{
+	height:400px;
 }
