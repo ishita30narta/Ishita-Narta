@@ -3,7 +3,7 @@
 }            /* header ke icons white------------------------------------------------*/
 
 #wrapper {
-  margin-top:30px;
+  margin-top:-3px;
          }          /* body ka margin , header sae-----------------------*/
 
 #main,
@@ -19,10 +19,13 @@
 }                 /*-------------------background color of 3 col ka---------------------*/
 
 #header {
-    background-color: #4267b2;
+    background-color: #3b5998;
     
 }                     /*--------------------header ka background color----------------------------*/
-
+.btn{
+	margin-left:-43px;
+	border:transparent;
+}    /* -------------search button inside input tag-------------------*/
 
 
 .pull-right {
